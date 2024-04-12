@@ -1,11 +1,6 @@
 # - Hello world !
 
-##
 
-✨
-##
-
-![fa-crown](fa-crown.svg)
 [Link to Linkedin](hhttps://www.linkedin.com/in/lauranne-bintein/)
 
 <!--
