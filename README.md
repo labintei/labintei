@@ -1,4 +1,12 @@
-### - Hello world !
+# - Hello world !
+
+##
+
+✨
+##
+
+![fa-crown](fa-crown.svg)
+[Link to Linkedin](hhttps://www.linkedin.com/in/lauranne-bintein/)
 
 <!--
 **labintei/labintei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
